@@ -1,9 +1,9 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "I'm Mark Sanchez"
+author = "Mark Sanchez"
 #copyright = "2020-2021"
 description = "Call me Jane"
-profilePicture = "images/cmoor_logo_notext.png"
+profilePicture = "https://e.snmc.io/i/600/w/f37676212c249770c2442c33135fad51/5534015/the-velvet-underground-and-nico-sunday-morning-femme-fatale-Cover-Art.png"
 keywords = ""
 # favicon = "favicons/"
 # example ["css/custom.css"]
