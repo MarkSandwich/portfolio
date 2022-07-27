@@ -1,8 +1,8 @@
 
-title = "I'm Mark Sanchez"
+title = "Mark Sanchez"
 author = "Mark Sanchez"
 #copyright = "2020-2021"
-description = "Call me Jane"
+description = "Adventures in RNA-seq Analysis"
 profilePicture = "https://e.snmc.io/i/600/w/f37676212c249770c2442c33135fad51/5534015/the-velvet-underground-and-nico-sunday-morning-femme-fatale-Cover-Art.png"
 keywords = ""
 # favicon = "favicons/"
@@ -39,9 +39,9 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
 [[socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://www.linkedin.com/"
+#icon = "fab fa-linkedin"
+#title = "Linkedin"
+#url = "https://www.linkedin.com/"
 
 [[socialIcons]]
 icon = "fab fa-github"
