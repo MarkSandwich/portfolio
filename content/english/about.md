@@ -4,4 +4,4 @@ description = "C-MOOR portfolio site"
 date = "2021-05-24"
 +++
 
-This is a "hello world" example portfolio website for [C-MOOR](https://github.com/C-MOOR). The theme was forked from [lxndrblz/anatole](https://github.com/lxndrblz/anatole).  Theme and example content were modified by [Katherine Cox](https://github.com/KatherineCox) for use by C-MOOR learners.
+My name is Mark Sanchez and I am pursuing a career in Computer Science. I completed a course at Clovis Community with Dr. Alcazar and others to learn about the tools used in genomic biology. While my interests do not align with the field of biology, I did come to appreciate learning the basics of the programming language R.
